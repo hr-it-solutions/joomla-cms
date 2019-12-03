@@ -98,4 +98,5 @@ Copyright
 Werbung
 ----------------------
 [Joomla! 4 Migration zum Frühbucher-Preis](https://www.hr-it-solutions.com/blog/joomla-4-migration-zum-fruehbucher-preis)
+
 [Der Preis einer individuellen Joomla! Extension](https://www.hr-it-solutions.com/blog/der-preis-einer-individuellen-joomla-extension)
