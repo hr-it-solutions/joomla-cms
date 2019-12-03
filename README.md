@@ -89,3 +89,13 @@ Copyright
 * [Special Thanks](https://docs.joomla.org/Joomla!_Credits_and_Thanks)
 * Distributed under the GNU General Public License version 2 or later
 * See [License details](https://docs.joomla.org/Joomla_Licenses)
+
+
+
+
+
+
+Werbung
+----------------------
+[Joomla! 4 Migration zum Frühbucher-Preis](https://www.hr-it-solutions.com/blog/joomla-4-migration-zum-fruehbucher-preis)
+[Der Preis einer individuellen Joomla! Extension](https://www.hr-it-solutions.com/blog/der-preis-einer-individuellen-joomla-extension)
